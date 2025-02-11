@@ -1,6 +1,3 @@
-//let now = new Date();
-//let date = now.getDate();
-
 let searchCity = document.querySelector("#searchCity-inputElement");
 let currentCity = document.querySelector("#current-city");
 let dateDetails = document.querySelector("#current-date");
